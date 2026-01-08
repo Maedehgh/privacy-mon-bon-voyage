@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Privacy Policy – Mon Bon Voyage</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+      background: #0b0b0b;
+      color: #f4f4f4;
+      margin: 0;
+      padding: 40px 20px;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #ffffff;
+    }
+    p {
+      line-height: 1.6;
+      color: #d6d6d6;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Privacy Policy</h1>
+    <p><strong>Last updated:</strong> January 8, 2026</p>
+
+    <p>
+      Mon Bon Voyage respects your privacy. This Privacy Policy explains how we collect,
+      use, and protect your information.
+    </p>
+
+    <h2>Information We Collect</h2>
+    <p>
+      Mon Bon Voyage may collect location data if you allow location access,
+      and basic usage data to improve app functionality.
+    </p>
+
+    <h2>How We Use Information</h2>
+    <p>
+      Information is used only to provide app features and improve user experience.
+    </p>
+
+    <h2>Data Sharing</h2>
+    <p>
+      We do not sell or share your data with third parties.
+    </p>
+
+    <h2>Subscriptions</h2>
+    <p>
+      Payments and subscriptions are processed securely by Apple.
+      We do not store or access payment information.
+    </p>
+
+    <h2>Your Choices</h2>
+    <p>
+      You can manage app permissions in your device settings at any time.
+    </p>
+
+    <h2>Contact</h2>
+    <p>
+      If you have questions, contact us at:
+      <br>
+      <strong>support@YOUR_EMAIL_HERE</strong>
+    </p>
+  </div>
+</body>
+</html>
